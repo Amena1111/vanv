@@ -266,22 +266,6 @@ h1, h2, h3, h4, h5,
 .color-white-opacity-5 {
   color: rgba(255, 255, 255, 0.5); }
 
-.btn:active, .btn:focus {
-  outline: none;
-  -webkit-box-shadow: none !important;
-  box-shadow: none !important; }
-
-.btn.btn-primary {
-  color: #fff; }
-
-.btn.btn-outline-white {
-  border-color: #fff;
-  background: transparent;
-  color: #fff; }
-  .btn.btn-outline-white:hover {
-    background: #fff;
-    border-color: #fff;
-    color: #000; }
 
 .line-height-1 {
   line-height: 1 !important; }
